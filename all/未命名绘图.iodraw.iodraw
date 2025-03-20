@@ -1,0 +1,166 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="EvuGCRjRXvHD4zCClgnS">
+    <mxGraphModel dx="3463" dy="1568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-111" target="uNGQoG-jwfXzf6CqZV6O-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-111" target="uNGQoG-jwfXzf6CqZV6O-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-111" value="研究方案" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1187" y="32" width="289" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-112" value="预研究" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="548" y="139" width="138" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-113" value="文献研究" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="208" width="124" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-114" value="研究设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="2194" y="139" width="124" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-115" value="数据收集整理" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="209" y="240" width="201" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-116" value="事件分析法" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="827" y="240" width="163" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-117" value="WIND企业公告：筛选出222家发布PPP项目参与公告的A股上市公司" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="20" y="361" width="257" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-118" value="手工数据的整理:对公司项目回报机制、股权比例和项目周期等项目信息进行整理" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="330" y="361" width="258" height="251" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-119" value="分析了PPP领域10个有影响力的政策的政策效果" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="635" y="370" width="248" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-120" value="确定研究对象：PPP新机制政策" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="932" y="370" width="247" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-121" value="政策解读" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="337" width="124" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-122" value="政策背景&#xa;政策意义" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1229" y="460" width="204" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-123" value="研究假设" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1852" y="227" width="124" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-124" value="研究方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="2581" y="262" width="124" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-126" value="项目标准、项目类型、政策类型" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1483" y="370" width="259" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-127" value="PPP项目回报机制变更" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1807" y="379" width="215" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-128" value="鼓励民营企业参与PPP项目" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="2097" y="379" width="247" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-129" value="H1:PPP新机制政策发布引发投资者对于交通建设市场的消极态度" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="503" width="256" height="322" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-130" value="H2:PPP新机制政策发布后，企业涉及的PPP项目资金政府参与度越高，引发政策对于企业价值的削弱效果越明显。" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1778" y="495" width="273" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-131" value="H3:PPP新机制政策发布后，政策对于国有企业的企业价值的削弱效果更明显。" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="2092" y="512" width="256" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-132" value="内生性问题" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="2454" y="377" width="140" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-133" value="基于事件研究法和双重差分的时间错配检验" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="521" width="252" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-134" value="研究方向：交通建筑行业" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="2644" y="383" width="236" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-138" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-111" target="uNGQoG-jwfXzf6CqZV6O-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-140" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-112" target="uNGQoG-jwfXzf6CqZV6O-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-141" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-112" target="uNGQoG-jwfXzf6CqZV6O-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-142" value="" style="startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-115" target="uNGQoG-jwfXzf6CqZV6O-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="149" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-143" value="" style="startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.5;entryY=0;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-115" target="uNGQoG-jwfXzf6CqZV6O-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408" y="320" />
+              <mxPoint x="456" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-144" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-116" target="uNGQoG-jwfXzf6CqZV6O-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-145" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-116" target="uNGQoG-jwfXzf6CqZV6O-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-146" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-113" target="uNGQoG-jwfXzf6CqZV6O-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-147" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-121" target="uNGQoG-jwfXzf6CqZV6O-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-148" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=1;entryY=0;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;strokeColor=#E07A5F;fontColor=default;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-114" target="uNGQoG-jwfXzf6CqZV6O-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-149" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;spacingTop=0;strokeColor=#E07A5F;fontColor=default;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-114" target="uNGQoG-jwfXzf6CqZV6O-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-151" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-123" target="uNGQoG-jwfXzf6CqZV6O-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-152" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-123" target="uNGQoG-jwfXzf6CqZV6O-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-153" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-123" target="uNGQoG-jwfXzf6CqZV6O-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-154" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-126" target="uNGQoG-jwfXzf6CqZV6O-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-155" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-127" target="uNGQoG-jwfXzf6CqZV6O-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-156" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-128" target="uNGQoG-jwfXzf6CqZV6O-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-157" value="" style="startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=-0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-124" target="uNGQoG-jwfXzf6CqZV6O-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2583" y="330" />
+              <mxPoint x="2524" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-158" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uNGQoG-jwfXzf6CqZV6O-132" target="uNGQoG-jwfXzf6CqZV6O-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGQoG-jwfXzf6CqZV6O-159" value="" style="startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=-0.01;rounded=1;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2701" y="335" />
+              <mxPoint x="2762" y="335" />
+            </Array>
+            <mxPoint x="2701.2799999999997" y="343" as="sourcePoint" />
+            <mxPoint x="2762" y="380.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
